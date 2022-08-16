@@ -1,4 +1,4 @@
-package op21.chess.main;
+package op21.chess;
 
 import java.util.Iterator;
 import java.util.LinkedList;
